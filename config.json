@@ -1,0 +1,8 @@
+{
+	"run_command": "python3 afk.py",
+	"auto_rerun": false,
+	"run_command_on_launch": true,
+	"specified_window": null,
+	"host":"127.0.0.1",
+	"port": 4001
+}
